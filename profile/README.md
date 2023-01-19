@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://acware.tech">
-      <img alt="Hi 👋" src="https://github.com/acware-tech/acware-tech/blob/main/.github/workflows/acw_logo_github.png"/>
+      <img alt="Hi 👋" src="https://github.com/acware-tech/.github/blob/main/profile/acw_logoname_trans.png"/>
   </a>
 </p>
 
